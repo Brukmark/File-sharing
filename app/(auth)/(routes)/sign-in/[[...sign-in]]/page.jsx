@@ -28,12 +28,12 @@ export default function Page() {
             </a>
 
             <h2 className="mt-6 text-2xl font-bold text-white sm:text-3xl md:text-4xl">
-              Welcome to File-Sharing App
+              Welcome to File Sharing
             </h2>
 
             <p className="mt-4 leading-relaxed text-white/90">
-              For seemles and fast paced file sharing we provide you our own
-              file sharing app you can contact us for further information
+              Welocome to our File sharing Website where you can share any file
+              Seemlessely we provide the best service for file sharing.
             </p>
           </div>
         </section>
@@ -60,12 +60,12 @@ export default function Page() {
               </a>
 
               <h1 className="mt-2 text-2xl font-bold text-gray-900 sm:text-3xl md:text-4xl">
-                Welcome to File-Sharing App
+                Welcome to File Sharing
               </h1>
 
               <p className="mt-4 leading-relaxed text-gray-500">
-                For seemles and fast paced file sharing we provide you our own
-                file sharing app you can contact us for further information
+                Welocome to our File sharing Website where you can share any
+                file Seemlessely we provide the best service for file sharing.
               </p>
             </div>
 
